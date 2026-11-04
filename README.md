@@ -28,4 +28,8 @@ npx expo install --fix
 ```
 
 ---
+---
 
+## 📱 App Screenshot
+
+![Todo List App](todo-app.png)
