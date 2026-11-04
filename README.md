@@ -26,3 +26,9 @@ If Expo reports a dependency version mismatch, run:
 ```bash
 npx expo install --fix
 ```
+
+---
+
+## 📱 App Screenshot
+
+![Todo List App](todo-app.png)
