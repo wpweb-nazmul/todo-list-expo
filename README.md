@@ -1,3 +1,8 @@
+## 📱 App Screenshot
+
+![Todo List App](todo-app.png)
+
+
 # Todo List Expo App
 
 A complete React Native + TypeScript Todo List app with:
